@@ -4,3 +4,11 @@
 .Ruserdata
 data/
 ouptuts/
+GCF_000001735.4_TAIR10.1_genomic.fna
+GCF_000001735.4_TAIR10.1_genomic.fna.gz
+GCF_000001735.4_TAIR10.1_genomic.gtf
+GCF_000001735.4_TAIR10.1_genomic.gtf.gz
+outputs/processed_fastq
+outputs/bam_files
+outputs/sam_files
+outputs/processed_fastq
